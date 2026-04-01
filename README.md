@@ -1,6 +1,4 @@
 # xbox-sales-dashboard-excel
-:
-
 📊 Dashboard de Vendas Xbox - Desafio DIO
 Este projeto faz parte de um desafio de visualização de dados, onde o objetivo foi transformar dados brutos de assinaturas em um dashboard estratégico e visualmente atraente utilizando o Microsoft Excel.
 
