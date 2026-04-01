@@ -1,8 +1,8 @@
 # xbox-sales-dashboard-excel
-📊 Dashboard de Vendas Xbox - Desafio DIO
+📊 **Dashboard de Vendas Xbox - Desafio DIO**
 Este projeto faz parte de um desafio de visualização de dados, onde o objetivo foi transformar dados brutos de assinaturas em um dashboard estratégico e visualmente atraente utilizando o Microsoft Excel.
 
-🚀 Tecnologias Utilizadas
+🚀 **Tecnologias Utilizadas**
 
 . **Microsoft Excel:** Processamento de dados e criação do dashboard.
 
@@ -10,7 +10,7 @@ Este projeto faz parte de um desafio de visualização de dados, onde o objetivo
 
 . **Design UI/UX:** Layout personalizado com a identidade visual da marca Xbox.
 
-📈 Funcionalidades do Dashboard
+📈 **Funcionalidades do Dashboard**
 
 . **Total de Assinaturas:** Indicador volumétrico de vendas.
 
@@ -20,7 +20,7 @@ Este projeto faz parte de um desafio de visualização de dados, onde o objetivo
 
 . **Preferência de Planos:** Distribuição percentual entre os planos Standard, Core e Ultimate.
 
-📂 Organização do Arquivo
+📂 **Organização do Arquivo**
 Para manter as boas práticas de análise de dados, o arquivo está estruturado em:
 
 1. **Bases:** Dados brutos exportados.
@@ -29,7 +29,7 @@ Para manter as boas práticas de análise de dados, o arquivo está estruturado 
 
 3. **Dashboard:** A interface visual final.
 
-💡 Como visualizar
+💡 **Como visualizar**
 1. Faça o download do arquivo .xlsx presente neste repositório.
 
 2. Abra no Microsoft Excel (recomendado) ou Google Sheets para interagir com os dados.
